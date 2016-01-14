@@ -1,4 +1,4 @@
 This is a collection of OpenFrameworks sketches.
 ===
 
-Many were built for Creative Coding at the University of Arizona, some are personal projects
+Some were built for a course, some are personal projects, some are just kept for reference.
